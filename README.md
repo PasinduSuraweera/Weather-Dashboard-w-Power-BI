@@ -46,14 +46,6 @@ This is my first Power BI project — a dynamic dashboard that integrates **live
 
 ---
 
-## 🚀 What's Next
-
-- Add alert logic for extreme weather or unhealthy AQI levels  
-- Explore integrating additional APIs (e.g., rainfall radar, UV index)  
-- Improve UI/UX with toggle views (current vs. forecast)  
-
----
-
 ## 📦 Data Source
 
 - [WeatherAPI.com](https://www.weatherapi.com/) – for both weather and air quality data
